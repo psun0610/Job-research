@@ -6,8 +6,8 @@
 - [로켓펀치](https://www.rocketpunch.com/)
 - [점프잇](https://www.jumpit.co.kr/)
 - [자소설닷컴](https://jasoseol.com/)
-- [사람인]([https://www.saramin.co.kr](https://www.saramin.co.kr/))
-- [잡코리아]([https://www.jobkorea.co.kr](https://www.jobkorea.co.kr/))
+- [사람인](https://www.saramin.co.kr/)
+- [잡코리아](https://www.jobkorea.co.kr/)
 
 
 
