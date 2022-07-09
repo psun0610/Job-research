@@ -16,3 +16,9 @@
 - [Data science, Data engineering](https://github.com/YeLinS/TIL2/wiki/%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0-%EB%A6%AC%EC%84%9C%EC%B9%98)
 
 - [Front-end, Back-end, Android](https://github.com/dgl1231/recruit_research/blob/main/RESEARCH.md)
+
+
+
+💕조회수💕
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/psun0610/Job-research&count_bg=%23FFACC5&title_bg=%2338B2D2C7&icon=&icon_color=%23E7E7E7&title=Job-Research&edge_flat=false)](https://hits.seeyoufarm.com)
